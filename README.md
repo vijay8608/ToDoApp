@@ -29,5 +29,5 @@ https://todoapp1991.herokuapp.com/
 ## Add tasts by clicking on pencil/ text box
 ![Alt text](images/_pencil.png?raw=true) 
 
-## Strike through tasks completed
+## Strike through completed tasks
 ![Alt text](images/strike-through.png?raw=true)
