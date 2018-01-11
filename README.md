@@ -14,8 +14,8 @@ https://todoapp1991.herokuapp.com/
 
 ## Technologies Used:
 
-**HTML** - markup language for creating web pages and web applications  
-**CSS**    - used for describing the presentation of a document written in a markup language  
+**HTML5**  - markup language for creating web pages and web applications  
+**CSS3**   - used for describing the presentation of a document written in a markup language  
 **jQuery** - cross-platform JavaScript library designed to simplify the client-side scripting of HTML  
 **Heroku** - cloud platform as a service used as a web application deployment model  
 
